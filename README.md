@@ -4,8 +4,14 @@ This project aims at developing the Library Management System where a user can l
 To Download the LMS system visit : https://www.library-management.com/
 
 ScreenShots
-<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1613473176/new_lms/s5.jpg"/>
-<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1613473176/new_lms/s2.jpg"/>
-<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1613473176/new_lms/s4.jpg"/>
-<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1613473175/new_lms/s3.jpg"/>
-<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1613473175/new_lms/s1.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s1_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s2_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s3_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s4_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s5_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s6_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s7_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s8_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s9_2.jpg"/>
+<img src="https://res.cloudinary.com/didyouknowthat/image/upload/v1614487248/screen/s10_2.jpg"/>
+
